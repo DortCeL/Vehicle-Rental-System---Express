@@ -26,7 +26,7 @@ A RESTful vehicle rental backend with role-based access, bookings, and vehicle m
 
 1. Install dependencies: `npm install`
 2. Env vars (example):
-    - `PORT=<port>` **required for dev mode**
+    - `PORT=<port>` (required for dev mode)
     - `CONN_STR=<neonDB-connection-string>`
     - `JWT_SECRET=<secret>`
 3. Build: `npm run build`
